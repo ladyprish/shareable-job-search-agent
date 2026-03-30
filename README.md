@@ -22,7 +22,7 @@ This agent does.
 - A Mac (Windows/Linux should work too with minor adjustments)
 - [Claude Code](https://claude.com/product/claude-code) installed
 - An [Anthropic API key](https://console.anthropic.com) (~$0.50–$2.00/day for job scoring)
-- A free email service account ([Resend](https://resend.com) recommended)
+- A free email service account (GMAIL works or [Resend](https://resend.com) recommended)
 - 1–2 hours to set it up
 
 ## Get Started
