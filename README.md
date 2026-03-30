@@ -21,15 +21,16 @@ This agent does.
 
 - A Mac (Windows/Linux should work too with minor adjustments)
 - [Claude Code](https://claude.com/product/claude-code) installed
+- Your resume (PDF or Word)
 - An [Anthropic API key](https://console.anthropic.com) (~$0.50–$2.00/day for job scoring)
-- A free email service account (GMAIL works or [Resend](https://resend.com) recommended)
+- A Gmail account (or other email provider that supports App Passwords)
 - 1–2 hours to set it up
 
 ## Get Started
 
 1. Read **[job-agent-project-instructions.md](job-agent-project-instructions.md)** — it's the full guide
-2. Fill in the `[FILL IN]` sections with your details
-3. Follow the setup steps to build your agent with Claude Code walking you through every step
+2. Drop your resume into the project folder
+3. Start Claude Code and paste the kickoff message — it reads your resume, builds your profile, and asks you a few follow-up questions to fill in the gaps
 
 No Terminal experience needed. The guide assumes you've never used it before.
 
