@@ -38,10 +38,9 @@ No Terminal experience needed. The guide assumes you've never used it before.
 
 I built this because I was looking for something very specific — a founding marketer role at a B2B startup building from 0 to 1. LinkedIn couldn't filter for that. So I built something that could.
 
-The first morning it ran, I woke up to 17 matches. Every one of them relevant.
+The first morning it ran, I woke up to an email round-up of matches. Every one of them relevant. 
 
-I'd never used Terminal before that weekend.
-
+Your only barrier to entry for this is clarity, time, and resolve.
 ---
 
 **Built by Jennifer Prishtina using Claude Code. [Follow me on LinkedIn](https://www.linkedin.com/in/jenniferprishtina/) — I'm sharing more about building AI tools without a technical background.**
